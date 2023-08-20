@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab49b5d1-489f-4889-90be-df8ab6b10989" name="Default Changelist" comment="init helloworld">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="ab49b5d1-489f-4889-90be-df8ab6b10989" name="Default Changelist" comment="edit gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692495074478</updated>
       <workItem from="1692495076191" duration="2326000" />
-      <workItem from="1692498808585" duration="529000" />
+      <workItem from="1692498808585" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="init helloworld">
       <created>1692498449954</created>
@@ -114,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692499251742</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="edit gitignore">
+      <created>1692499399772</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692499399772</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +139,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init helloworld" />
-    <option name="LAST_COMMIT_MESSAGE" value="init helloworld" />
+    <MESSAGE value="edit gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit gitignore" />
   </component>
 </project>
